@@ -1,0 +1,23 @@
+{
+  "name": "dallas-pd-central",
+  "version": "1.0.0",
+  "description": "Dallas PD Central Discord Bot - Roleplay Police Department System",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "register": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "police",
+    "roleplay",
+    "dallas"
+  ],
+  "author": "Dallas PD Central",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  }
+}
